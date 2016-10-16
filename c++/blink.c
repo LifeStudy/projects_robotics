@@ -5,7 +5,6 @@
 #include <stdlib.h>
 
 #include "mraa.h"
-
 #define DEFAULT_IOPIN 8
 
 int running = 0;

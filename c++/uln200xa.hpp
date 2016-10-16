@@ -5,7 +5,6 @@
 #include <mraa/pwm.h>
 
 namespace upm {
-
 	class ULN200XA {
 		public:
 		typedef enum {

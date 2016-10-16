@@ -8,7 +8,6 @@
 
 static int iopin;
 int running = 0;
-
 void sig_handler(int signo)
 {
     if (signo == SIGINT) {

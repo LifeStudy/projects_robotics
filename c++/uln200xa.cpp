@@ -3,7 +3,6 @@
 #include "uln200xa.hpp"
 
 using namespace std;
-
 int main ()
 {
   upm::ULN200XA* uln200xa = new upm::ULN200XA(4096, 8, 9, 10, 11);

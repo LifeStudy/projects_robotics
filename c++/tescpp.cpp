@@ -3,7 +3,6 @@
 #include "uln200xa.hpp"
 
 using namespace std;
-
 int main ()
 {
   //! [Interesting]

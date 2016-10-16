@@ -8,7 +8,6 @@ int iopin0;
 int iopin1;
 int iopin2;
 int iopin3;
-
 int main(int argc, char** argv)
 {
   mraa_gpio_context gpio0;

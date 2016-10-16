@@ -16,5 +16,5 @@ int main(int argc, char** argv)
     mraa_gpio_write(gpio, 0);
     sleep(1);
   }
-	return 0;
+   return 0;
 }
